@@ -1,0 +1,1 @@
+This is working folder for my Python for Beginner Series video progress.
